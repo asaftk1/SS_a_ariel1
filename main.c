@@ -15,7 +15,7 @@ int main()
         if(isArmstrong(i)==1)printf(" %d",i);
     }
     printf("\n");
-    printf("The Palindrome numbers are:");
+    printf("The Palindromes numbers are:");
     for(int i = first ; i<=last ; i++){
         if(isPalindrome(i)==1)printf(" %d",i);
     }
